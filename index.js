@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Hala Habibiiii"];
+const statusMessages = ["🇸🇦 ٩٤"];
 
 
 let currentIndex = 0;
