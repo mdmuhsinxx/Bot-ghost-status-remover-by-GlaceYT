@@ -28,7 +28,7 @@ const client = new Client({
 const app = express();
 const port = 3000;
 app.get('/', (req, res) => {
-  res.send('YaY Your Bot Status Changed✨');
+  res.send('Yalla Bot is now activated! This innovative bot is proudly developed by Spella Experiment to enhance your experience. To learn more about Spella and explore our projects, join our official Discord server at https://discord.gg/uwVGgwHV3T.');
 });
 app.listen(port, () => {
   console.log(`🔗 Listening to RTX: http://localhost:${port}`);
