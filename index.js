@@ -1,15 +1,7 @@
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-  GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+ These codes are developed with the help of spella ai
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by mdmuhsin
  * **********************************************
  */
 
@@ -31,8 +23,8 @@ app.get('/', (req, res) => {
   res.send('Yalla Bot is now activated! This innovative bot is proudly developed by Spella Experiment to enhance your experience. To learn more about Spella and explore our projects, join our official Discord server at https://discord.gg/uwVGgwHV3T.');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By RTX`);
+  console.log(`🔗 Listening to Spella: http://localhost:${port}`);
+  console.log(`🔗 Powered By spella`);
 });
 
 
@@ -53,17 +45,18 @@ async function login() {
 }
 
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+
+╭━━━╮╱╱╱╱╱╭╮╭╮
+┃╭━╮┃╱╱╱╱╱┃┃┃┃
+┃╰━━┳━━┳━━┫┃┃┃╭━━╮
+╰━━╮┃╭╮┃┃━┫┃┃┃┃╭╮┃
+┃╰━╯┃╰╯┃┃━┫╰┫╰┫╭╮┃
+╰━━━┫╭━┻━━┻━┻━┻╯╰╯
+╱╱╱╱┃┃
+╱╱╱╱╰╯    
+  DISCORD SERVER : https://discord.gg/uwVGgwHV3T.
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by mdmuhsin
  * **********************************************
  */
 
@@ -92,8 +85,8 @@ function updateStatusAndSendMessages() {
 
 client.once('ready', () => {
   console.log(`\x1b[36m%s\x1b[0m`, `|    ✅ Bot is ready as ${client.user.tag}`);
-  console.log(`\x1b[36m%s\x1b[0m`, `|    ✨HAPPY NEW YEAR MY DEAR FAMILY`);
-  console.log(`\x1b[36m%s\x1b[0m`, `|    ❤️WELCOME TO 2024`);
+  console.log(`\x1b[36m%s\x1b[0m`, `|    Thank you for using spella codes`);
+  console.log(`\x1b[36m%s\x1b[0m`, `|    welcome to spella`);
   updateStatusAndSendMessages();
 
   setInterval(() => {
@@ -104,16 +97,17 @@ client.once('ready', () => {
 login();
 
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+ 
+╭━━━╮╱╱╱╱╱╭╮╭╮
+┃╭━╮┃╱╱╱╱╱┃┃┃┃
+┃╰━━┳━━┳━━┫┃┃┃╭━━╮
+╰━━╮┃╭╮┃┃━┫┃┃┃┃╭╮┃
+┃╰━╯┃╰╯┃┃━┫╰┫╰┫╭╮┃
+╰━━━┫╭━┻━━┻━┻━┻╯╰╯
+╱╱╱╱┃┃
+╱╱╱╱╰╯      
+  DISCORD SERVER : https://discord.gg/uwVGgwHV3T.
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by mdmuhsin
  * **********************************************
  */
